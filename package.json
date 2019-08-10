@@ -3,6 +3,8 @@
     "displayName": "Dev - Extensions Pack",
     "description": "Dev Extensions Pack",
     "version": "0.0.1",
+    "publisher": "eovares",
+    "repository": "https://github.com/eovares/dev-extensions-pack.git",
     "engines": {
         "vscode": "^1.37.0"
     },
